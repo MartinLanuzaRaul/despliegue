@@ -3,7 +3,7 @@
 ## Cambiar nombre del servidor
 ![Texto alternativo](./imagenes/Captura.PNG "Pie de imagen")
 
-## Configuración de tarjeta de red
+## Configuración de tarjeta de red asignando una IP para el servidor.
 ![Texto alternativo](./imagenes/Captura2.PNG "Pie de imagen")
 
 ## Ubuntu cliente
