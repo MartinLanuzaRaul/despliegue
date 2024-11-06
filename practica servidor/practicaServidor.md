@@ -62,9 +62,11 @@ Comprobamos el estado del servidor
 
 ![](./imagenes/Captura15.PNG)
 
+Y comprobamos tambien que el puerto 67 esta escuchando con ````netstat -nul```
+
 ![](./imagenes/Captura16.PNG)
 
-Verificamos los leases en el servidor
+Verificamos los leases en el servidor usando el comando ```dhcp-lease-list```
 
 ![](./imagenes/Captura17.PNG)
 
