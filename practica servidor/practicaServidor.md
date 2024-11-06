@@ -62,7 +62,7 @@ Comprobamos el estado del servidor
 
 ![](./imagenes/Captura15.PNG)
 
-Y comprobamos tambien que el puerto 67 esta escuchando con ````netstat -nul```
+Y comprobamos tambien que el puerto 67 esta escuchando con ```netstat -nul```
 
 ![](./imagenes/Captura16.PNG)
 
