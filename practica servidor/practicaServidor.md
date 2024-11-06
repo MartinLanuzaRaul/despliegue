@@ -26,12 +26,12 @@
 ## Añadimos la IP que actuará de DHCP
 ![](./imagenes/Captura8.PNG)
 
-## Instalamos el servidor con **apt-get install isc-dhcp-server**
+## Instalamos el servidor con ```apt-get install isc-dhcp-server```
 
-## Editamos el fichero **/etc/default/isc-dhcp-server**
+## Editamos el fichero ```/etc/default/isc-dhcp-server```
 ![](./imagenes/Captura10.PNG)
 
-## El fichero principal de configuración de DHCP es **/etc/dhcp/dhcpd.conf.** 
+## El fichero principal de configuración de DHCP es ```/etc/dhcp/dhcpd.conf.```
 ## Modificamos este archivo definiendo la subnet y el rango de IPs que se van a repartir a los clientes
 ![](./imagenes/Captura11.PNG)
 
