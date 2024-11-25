@@ -120,6 +120,10 @@ Servicio de DNS
 ![](./imagenes/Captura12.PNG)
     
   - Probar la resolución usando nslookup y dig. Ojo, la resolución de nombres debe correr a cargo del servidor Ubuntu.
+
+![](./imagenes/Captura13.PNG)
+![](./imagenes/Captura14.PNG)
+
 - Trabajo extra. Para mejorar tu calificación se te propone:
   - Añadir una zona de resolución inversa
   - Instalar Bind9 en el cliente Ubuntu y definirlo como DNS esclavo del primero.
