@@ -43,9 +43,26 @@ Servicio de DNS
 
 - Intenta resolver las siguientes preguntas con con las 3 herramientas presentadas: host,nslookup y dig.
   - Busca la IP asignada
+
+    - Se puede obtener con los 3 comandos.
+
+     ![](./imagenes/Captura2-0.PNG)
+
+     ![](./imagenes/Captura2-1.PNG)
+
+     ![](./imagenes/Captura2-2.PNG)
+
   - Quien resuelve su DNS
+
+    ![](./imagenes/Captura2-3.PNG)
+
   - Cuál es el servidor de correo electrónico. Si hay varios, determina cual es primero por su prioridad.
+
+    ![](./imagenes/Captura2-4.PNG)
+
   - Haz la búsqueda de forma autorizada, es decir, que el servidor que contesta sea uno de los registos NS del dominio.
+
+      ![](./imagenes/Captura2-5.PNG)
 
 ### Suplantar servicio DNS localmente.
 
