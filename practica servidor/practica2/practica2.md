@@ -111,7 +111,14 @@ Servicio de DNS
 
 - Para comprobar que tu configuración es correcta debes:
   - Usar el comando de verificación sintáctica.
+
+![](./imagenes/Captura10.PNG)
+![](./imagenes/Captura11.PNG)
+
   - Reiniciar el servicio
+
+![](./imagenes/Captura12.PNG)
+    
   - Probar la resolución usando nslookup y dig. Ojo, la resolución de nombres debe correr a cargo del servidor Ubuntu.
 - Trabajo extra. Para mejorar tu calificación se te propone:
   - Añadir una zona de resolución inversa
